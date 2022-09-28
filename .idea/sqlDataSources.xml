@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="d1e8fb68-6fe7-47aa-b78a-e3206989a734" name="GL_Project@localhost Mapping">
+      <data-sources db="ccd90d4d-98d8-4721-bd6c-f5049e3464e2" ddl="00818797-0b8e-4bab-9db7-eaa7c8d1ac43" />
+      <scope>
+        <node kind="schema" qname="GL_Project" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="00818797-0b8e-4bab-9db7-eaa7c8d1ac43" />
+          <option name="name" value="GL_Project@localhost (DDL)" />
+          <option name="languageId" value="MySQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/target/DLL" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
